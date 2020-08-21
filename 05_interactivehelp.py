@@ -1,0 +1,15 @@
+# dir()
+# print(dir())
+# dir(__builtins__)
+# print(dir(__builtins__))
+# help(sum)
+# print(help(sum))
+# help('modules')
+# print(help('modules'))
+# import antigravity
+# print(dir())
+# help(antigravity)
+# print(help(antigravity))
+import csv
+help(csv)
+print(help(csv))
